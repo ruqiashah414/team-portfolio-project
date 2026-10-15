@@ -1,2 +1,1 @@
-# team-portfolio-project
-Collaborative Portfolio Website
+# Team Portfolio Project
